@@ -9,6 +9,7 @@ of Europe member states. Status snapshot: 4 May 2026.
 Author: Maarten Vink (European University Institute)
 Contact: maarten.vink@eui.eu
 
+Replication code for Figure in: Maarten Vink, “A 6–0 defeat, a passport affair, and the future of Dutch citizenship”, Substack (May 4, 2026): https://maartenpvink.substack.com/publish/post/196425001. 
 
 Folder structure
 ----------------
